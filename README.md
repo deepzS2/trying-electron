@@ -1,2 +1,2 @@
-# trying-electron
-First ElectronJs project by Fireship.io
+# Trying Electron
+First [ElectronJs](https://www.electronjs.org) project by [Fireship.io](https://fireship.io)
